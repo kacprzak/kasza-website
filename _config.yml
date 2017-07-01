@@ -2,6 +2,6 @@
 title:            Kasza
 tagline:          'A tagline'
 description:      'A website done for AGH'
-baseurl:          /kasza-website/
+baseurl:          /kasza-website
 
 #paginate:         5
