@@ -1,0 +1,7 @@
+# Setup
+title:            Kasza
+tagline:          'A tagline'
+description:      'A website done for AGH'
+baseurl:          /
+
+#paginate:         5
